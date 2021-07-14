@@ -1,0 +1,20 @@
+body {
+    background-color: #ff9d76;
+}
+
+.flex-container {
+    flex-direction: row;
+}
+
+/*default*/
+.nowrap{
+    flex-wrap: nowrap;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.wrap-reverse{
+    flex-wrap: wrap-reverse;
+}
